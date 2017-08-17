@@ -11,8 +11,22 @@ Druid - Healer - Creator     Blacksmith - Alchemist - Dosser 
 Theif - Hunter - Fighter        White Mage - Dark Mage - Nullifiers
 
 Attributes: Strength - Agility - Intelligence
-Magic: Elemental-" Fire - Water - Earth - Ice - Lightning "
- White-" Heal ,
+
+Magic: 
+Elemental-"Light - Dark - Fire - Water - Earth - Ice - Lightning - Time"
+ Light-"Cure, Heal, Purify, Illuminate, Resonate,"
+ Dark-"Corrode, Demi, Death, Oblivion, Destruct, Ultimate"
+ Fire-"Fire I, Fire II, Fire III, Flamega"
+ Water-"Water I, Water II, Water III, Rainga"
+ Earth-"Earth I, Earth II, Earth III, Quakega"
+ Ice-"Ice I, Ice II, Ice III, Freezega"
+ Lightning-"Lightning I, Lightning II, Lightning III, Thunderga"
+ Time-"Haste I, Haste II, Haste III, Hastga, Slow I, Slow II, Slow III, Slowga"
+
+Skills: "Slash, Buster, Poison, Devestate, Feint, Desolate"
+
+Items: "Potion, Mega-Potion, Hyper-Potion, Remedy, Tent, Sleeping-Bag, Antidote,"
+
 Characters:
 Main
 
@@ -29,7 +43,7 @@ Story NPC's
 Inn Keeper -
 
 Influences -
+
   Fight Club - Tri gun - Cowboy Bebop -The Illiad - Samson
   Wrath of Fire - Ogre Battle 64 - Warcraft 3 - Chrono Trigger
   Final Fantasy 4,7,10 - The Tempest
- 
