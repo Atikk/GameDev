@@ -22,7 +22,7 @@ Enter: Sona
 
 Hench-man #1: //radio//"We have the girl in custody"
 
-COM: //radio//copy.. move her to sector-3
+COM: //radio//"copy.. move her to sector-3"
 
 Hench-man #2: "Come on Red lets get out of here." 
 "The Drogg are starting to multiply"
@@ -39,7 +39,7 @@ Inn-Keeper: "you've been sleeping for a week"
 "we found you off the shore, not to far from the Harbor."
 "Poor child. We saw you being held by members of N-Rok"
 
-Man-1: "We need to report her, or their going to fine us for incompliance."
+Man-1: "We need to report her, or they're going to fine us for incompliance."
 
 Inn-Keeper:"Quiet, can't you see shes been through enough."
 
@@ -74,7 +74,7 @@ Swain: "Hello there friend. The members of N-Rok and I are here on business"
 Saul: "I do not know of whom you are looking for"
 "This village is not looking for trouble."
 
-Swain: "Good to hear. then you wouldn't be opposed to us search through Inn perhaps"
+Swain: "Good to hear. then you wouldn't oppose us searching through your Inn perhaps"
 
 Saul: "Go ahead, you'll find nothing here."
 
@@ -113,9 +113,9 @@ Cole: "But that means..."
 "Alright. I understand, I'll take her to Garen."
 "But you owe me a big meal when I get back."
 
-Saul: "Leave the village through the tunnels so wont N-Rok doesn't find you,"
+Saul: "Leave the village through the tunnels so N-Rok doesn't find you,"
 "It will lead you to Sector-5 just off the harbor."
-"There's a small boat there that you can take north."
+"There's a small boat there you can take north."
 
 Cole: "Hello, my lady, my name is Cole. What is your name?"
 
@@ -149,7 +149,11 @@ N-rok HM: "No sign of her"
 
 Swain: "..." *** Silent Anger Eminates from Swain ***
 
-N-rok HM: "We have all of our dossers searching but the trail ends here."
+N-rok HM: "We have all of our dossers searching for her"
+"but the trail ends here."
+"the is no sign of her"
+"the search is wearing on our men"
+"our soldiers need their rest"
 
 Cinematic: "Dark cloud consumes Soilder"
 
@@ -166,14 +170,95 @@ Pan to - Cole and Sona hiding in the distance
 Cole: "The bastard"
 "Don't worry, Sona."
 "I'ma get you out of here."
-"Garen is not to far north."
+"Garen is not far north."
 "We'll sneak out before daylight."
 
 Multiplayer Pirate Game: Unlockable at 60
+*sneak point*
+*Obj: Dodge N-Roq Privateers, Fend off Pirate interceptors, and Drogg*
 Boat level 1
 Boat Tech Tree Weapons.
-Basic Cannon - Sniper Shot - Missles
+Basic Cannon - Sniper Shot - Missles - Drones - Lasers
+
+*Sona and Cole anchor just off the coast of sector 7*
 
 Scene IV - Small Encampment Outside of Sector 7
-*North of Sector 5*
+
 Garen and his men are defending against the Drogg
+
+Recruit#1:"Sir! the drogg are getting stronger"
+
+Garen: "Tell Kause need we need him to fix the barrier as soon as possible"
+
+Recruit#1: "Yes Sir"
+
+Recruit#2: "The men are reporting a level 5 Drogg manifesting the waves Sir."
+
+Garen: "everyone to their posts"
+"We'll fight them off long enough for Kause to fix the barrier"
+
+Recruit#3:"Code red!"
+"I repeat code red, We have a level 5 Drogg Incomming"
+
+**Cole and Sona aid the fight**
+
+Enter Battle: Flame Drogg
+
+*Kause dropps an egg-flash regenerating the Barrier*
+
+Garen: "Good man Kause"
+
+Kause: "Of-course General Garen"
+"I just needed the time to muster together these matter bombs here"
+"Jump starting the barrier with a flash of energy happened to work out perfectly"
+
+Recruit: "Sir. The engines are reporting to be functioning at a nomnial rate"
+
+Kause: "Calculated to the dime" *wink*
+
+Garen: "COLE! You old dog you"
+"What a fine young lady you have with you"
+"and your name, mlady?"
+
+Cole: "This is Sona"
+"Saul sent me to escort her to you, Garen"
+"Something is happenening to N-Rok"
+"They've sent Swain after her"
+
+Garen:"Swain?!"
+"What business would the nobles have with this girl here?"
+
+Cole: "Saul said she was being held captive by the members of N-rok"
+"they we're taking her to sector-3"
+
+Garen:"Sector 3?!"
+"Good lord, Why would they be transporting"
+"a prisoner to Cain's M-plant?"
+
+Kause: "The M-Plant of sector-3 huh.."
+"Our dossers have data reporting"
+"Sector-3's Energy levels have been" 
+"off the charts for the last week or so"
+"We're not sure what they're building there"
+"and why its generating so much energy"
+
+Garen:"Enough said, We cannont let the nobles"
+"get their hands on the beautiful lady here"
+"we need to infiltrate sector-3 and figure out"
+"why our dossers are reporting a surge of energy there"
+
+Garen: "Cole, What have you,"
+"Are you willing to join the resistance?"
+"Our mission is to liberate the people from N-roK"
+"Its obvious the drogg are becoming more aggressive"
+"All because of n-roks malicious activity"
+"We need as many men as we can find to aid us in the fight"
+
+Cole: "As much as I hate that rat bastard Cain"
+"Garen, The war was a long time ago"
+"I've been taking it easy Kor this entire time"
+"I can't ask for more"
+"The people asked Cain to lead them"
+"It's not our place to decide"
+
+Garen: "But Cole!
