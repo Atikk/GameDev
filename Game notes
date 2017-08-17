@@ -14,36 +14,37 @@ Attributes: Strength - Agility - Intelligence
 
 Magic: 
 Elemental-"Light - Dark - Fire - Water - Earth - Ice - Lightning - Time"
- Light-"Cure, Heal, Purify, Illuminate, Resonate,"
- Dark-"Corrode, Demi, Death, Oblivion, Destruct, Ultimate"
+ Light-"Cure, Heal, Purify, Illuminate, Meditate, Ultima"
+ Dark-"Corrode, Demi, Death, Oblivion, Destruct, Ultima"
  Fire-"Fire I, Fire II, Fire III, Flamega"
  Water-"Water I, Water II, Water III, Rainga"
  Earth-"Earth I, Earth II, Earth III, Quakega"
  Ice-"Ice I, Ice II, Ice III, Freezega"
  Lightning-"Lightning I, Lightning II, Lightning III, Thunderga"
  Time-"Haste I, Haste II, Haste III, Hastga, Slow I, Slow II, Slow III, Slowga"
+ 
+Skills: 
+Sword-
+"Slash, Buster, Poison, Devestate, Feint, Desolate,"
+Music-
+"Resonate, Silence,
 
-Skills: "Slash, Buster, Poison, Devestate, Feint, Desolate"
-
-Items: "Potion, Mega-Potion, Hyper-Potion, Remedy, Tent, Sleeping-Bag, Antidote,"
+Items: "Potion, Mega-Potion, X-Potion, Remedy, Tent, Sleeping-Bag, Antidote, Grenade,"
 
 Characters:
-Main
-
+Main-
 Sona   Cole    Garen    
 Muse - Djinn - Knight
 
-Villains
-
+Villains-
   Cane       Swain     Vayne
 Nullifier - Darkmage - Hunter -
 
-Story NPC's
-  Saul
+Story NPC-
+Saul
 Inn Keeper -
 
 Influences -
-
   Fight Club - Tri gun - Cowboy Bebop -The Illiad - Samson
   Wrath of Fire - Ogre Battle 64 - Warcraft 3 - Chrono Trigger
   Final Fantasy 4,7,10 - The Tempest
