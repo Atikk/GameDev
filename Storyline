@@ -5,6 +5,7 @@ Prelude -
 Year 4020
 
 Cain was elected..
+
 In a panic we elected the first person willing to say he could fix everything.
 
 The chairman of n-RoK..
@@ -26,7 +27,7 @@ COM: //radio//copy.. move her to sector-3
 Hench-man #2: "Come on Red lets get out of here." 
 "The Drogg are starting to multiply"
 
-Enter Battle: Sea Drogg #1
+//Enter Battle: Sea Drogg #1//
 
 Hench-men Fall
 
@@ -50,7 +51,7 @@ Inn-Keeper:"Calm down, she just needs her rest is all"
 
 *Knock* *Knock*
 
-Man-1: "Its N-Rok!" "Quick hide the girl"
+Man-1: "It's the nobles!" "Quick hide the girl"
 
 Inn-Keeper:"Quick child this way, come with me."
 
@@ -73,11 +74,12 @@ Swain: "Hello there friend. The members of N-Rok and I are here on business"
 Saul: "I do not know of whom you are looking for"
 "This village is not looking for trouble."
 
-Swain: "Good to hear. then you wouldn't be opposed to us searching your Inn perhaps"
+Swain: "Good to hear. then you wouldn't be opposed to us search through Inn perhaps"
 
 Saul: "Go ahead, you'll find nothing here."
 
 Swain: "Very well, my men will be quick"
+"this is all just routine"
 
 Swain: "As expected, your inn-keeper is a modest man."
 "We we will take our leave. Thank you, for your co-operation"
@@ -85,8 +87,8 @@ Swain: "As expected, your inn-keeper is a modest man."
 Exit: Swain
 
 Man-1: "I don't like the look of this"
-"they wouldn't have sent Swain if the situation wasn't big."
-"For God sakes, he's Cain's right hand."
+"they wouldn't have sent Swain if the situation wasn't big"
+"For God sakes, he's one of Cain's well known generals"
 "We need to get rid of her now, Saul"
 
 Saul: "Alright.. Fetch Cole, well have him escort the girl to Garen"
@@ -98,32 +100,80 @@ Scene II - Under The-INN
 
 Cole: "Saul, you know I have my rounds. The Drogg are getting worse. What do you need?"
 
-Saul: "N-Rok are searching for this lady here, we need you to bring her to Garen."
+Saul: "N-Rok is searching for this young lady here, we need you to bring her to Garen."
 
 Cole: "To Garen?! I haven't spoken to him since the war."
 "Last I heard he was leading the resistance"
 
-Saul: "Exactly, he might just be this girls best chance at escaping N-Rok"
+Saul: "Exactly, he might just be this girls only chance at escaping N-Rok"
 "Cole, she needs your help"
-"They've even sent Swain to come find her."
+"They have even sent Swain to come find her."
 
 Cole: "But that means..."
 "Alright. I understand, I'll take her to Garen."
 "But you owe me a big meal when I get back."
 
-Saul: "Leave the village through the tunnel so N-Rok doesn't find you,"
+Saul: "Leave the village through the tunnels so wont N-Rok doesn't find you,"
 "It will lead you to Sector-5 just off the harbor."
-"There's a boat there that you can take north."
+"There's a small boat there that you can take north."
 
 Cole: "Hello, my lady, my name is Cole. What is your name?"
 
 Sona:"... Sona."
 
 Cole: "Well then looks like we have ourselves a journey ahead of us"
-"Let us be on our way?"
+"Let us be on our way then?"
 
-Saul: "Wait. Take this, he hands Cole a Quill."
-"She was carrying this when we found her."
+Saul: "Wait. Take this, he hands Cole a Quill and a Pendant."
+"She was carrying these when we found her."
 "Be safe."
 
+//Save point//
+Would you like to save?
+
 End Scene II
+
+Tunnels: *Maze* *Puzzle* & *Monster Fights*
+*Boss at end*
+
+Enter Battle: Rock Drogg *Boss*
+
+Scene III - Sector-5
+
+N-rok HM: "Sir."
+"We've dealt with the Drogg attacking Sector-5"
+
+Swain: "And the girl?"
+
+N-rok HM: "No sign of her"
+
+Swain: "..." *** Silent Anger Eminates from Swain ***
+
+N-rok HM: "We have all of our dossers searching but the trail ends here."
+
+Cinematic: "Dark cloud consumes Soilder"
+
+N-rok HM *yells in terror*
+
+Swain: "As for the rest of you."
+"Pray you do not end up like him."
+"Rest for now and we leave in the morning."
+//
+Pan to - Cole and Sona hiding in the distance
+//
+*Sona is disturbed by Swains actions*
+//
+Cole: "The bastard"
+"Don't worry, Sona."
+"I'ma get you out of here."
+"Garen is not to far north."
+"We'll sneak out before daylight."
+
+Multiplayer Pirate Game: Unlockable at 60
+Boat level 1
+Boat Tech Tree Weapons.
+Basic Cannon - Sniper Shot - Missles
+
+Scene IV - Small Encampment Outside of Sector 7
+*North of Sector 5*
+Garen and his men are defending against the Drogg
