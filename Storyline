@@ -31,7 +31,7 @@ Hench-man #2: "Come on Red lets get out of here."
 
 Hench-men Fall
 
-Scene I
+//Scene I
 
 Pan-to-inn:
 
@@ -94,9 +94,9 @@ Man-1: "I don't like the look of this"
 Saul: "Alright.. Fetch Cole, well have him escort the girl to Garen"
 "Hopefully. He'll know what to do."
 
-End Scene.
+//End Scene.
 
-Scene II - Under The-INN 
+//Scene II - Under The-INN 
 
 Cole: "Saul, you know I have my rounds. The Drogg are getting worse. What do you need?"
 
@@ -131,14 +131,14 @@ Saul: "Wait. Take this, he hands Cole a Quil and a Pendant."
 //Save point//
 Would you like to save?
 
-End Scene II
+//End Scene II
 
 Tunnels: *Maze* *Puzzle* & *Monster Fights*
 *Boss at end*
 
 Enter Battle: Rock Drogg *Boss*
 
-Scene III - Sector-5
+//Scene III - Sector-5
 
 N-rok HM: "Sir."
 "We've dealt with the Drogg attacking Sector-5"
@@ -165,16 +165,20 @@ N-rok HM *yells in terror*
 Swain: "As for the rest of you."
 "Pray you do not end up like him."
 "Rest for now and we leave in the morning."
+
 //
 Pan to - Cole and Sona hiding in the distance
 //
 *Sona is disturbed by Swains actions*
 //
+
 Cole: "The bastard"
 "Don't worry, Sona."
 "I'ma get you out of here."
 "Garen is not far north."
 "We'll sneak out before daylight."
+
+//End Scene III
 
 Multiplayer Pirate Game: Unlockable at 60
 *sneak point*
@@ -185,7 +189,7 @@ Basic Cannon - Sniper Shot - Missles - Drones - Lasers
 
 *Sona and Cole anchor just off the coast of sector 7*
 
-Scene IV - Small Encampment Outside of Sector 7
+//Scene IV - Small Encampment Outside of Sector 7
 
 Garen and his men are defending against the Drogg
 
@@ -238,7 +242,7 @@ Garen:"Sector 3?!"
 "Good lord, Why would they be transporting"
 "a prisoner to Cain's M-plant?"
 
-Kause: "The M-Plant of sector-3 huh.."
+Krause: "The M-Plant of sector-3 huh.."
 "Our dossers have data reporting"
 "Sector-3's Energy levels have been" 
 "off the charts for the last week or so"
@@ -251,7 +255,9 @@ Garen:"Enough said, We cannot let the nobles"
 "why our dossers are reporting a surge of energy there"
 "give us a day to devise a plan we'll discuss this tomorrow"
 
-Scene V - Midnight at the refuge
+\\End Scene.
+
+\\Scene V - Midnight at the refuge
 
 Garen: "Cole, What have you,"
 "Are you willing to join the resistance?"
@@ -290,13 +296,35 @@ Cole: "Sona.. I'm going back to Kor."
 *Sona gives Cole a kiss on the cheek*
 *Embarrassed Cole is confused and vanishes*
 
-End Act I
+End Scene.
+End Act.
 
 //Choice//
 Leave with Cole or Stay with Sona?
 
 Act II
 
-Scene I - Chairman Cane's Council
+\\Scene I - Chairman Cane's Council
 
-Swain: "Minis
+Swain: "Minister Cain"
+"Intel reports that they have spotted the girl with Garen"
+"And his insolent band of rebels"
+"Garen has always found himself able to be a nuisence."
+"My skin crawls at his existence."
+
+Cain: "Calm your self swain"
+"There is no need to fret"
+"Although the girl is important"
+"Our plans are moving along smoothly"
+
+Swain: "Yes, your highness."
+"I will not worry myself."
+
+Cain:"Bring me Vayne"
+
+Exit Swain:
+Enter Vayne:
+
+Vayne: "What is thy bidding my master?"
+
+\\End Scene.
