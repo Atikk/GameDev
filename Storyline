@@ -31,7 +31,7 @@ Hench-man #2: "Come on Red lets get out of here."
 
 Hench-men Fall
 
-//Scene I
+//Scene I - The Inn-keeper Saul
 
 Pan-to-inn:
 
@@ -96,7 +96,7 @@ Saul: "Alright.. Fetch Cole, well have him escort the girl to Garen"
 
 //End Scene.
 
-//Scene II - Under The-INN 
+//Scene II - Underneath The-INN 
 
 Cole: "Saul, you know I have my rounds. The Drogg are getting worse. What do you need?"
 
@@ -138,7 +138,7 @@ Tunnels: *Maze* *Puzzle* & *Monster Fights*
 
 Enter Battle: Rock Drogg *Boss*
 
-//Scene III - Sector-5
+//Scene III - Harbors in the Shadows
 
 N-rok HM: "Sir."
 "We've dealt with the Drogg attacking Sector-5"
@@ -190,13 +190,13 @@ Basic Cannon - Sniper Shot - Missles - Drones - Lasers
 
 *Sona and Cole anchor just off the coast of sector 7*
 
-//Scene IV - Small Encampment Outside of Sector 7
+//Scene IV - The Resistance
 
 Garen and his men are defending against the Drogg
 
 Recruit#1:"Sir! the drogg are getting stronger"
 
-Garen: "Tell Krause need we need him to fix the barrier as soon as possible"
+Garen: "Warn Krause we need him to fix the barrier as soon as possible"
 
 Recruit#1: "Yes Sir"
 
@@ -234,6 +234,7 @@ Cole: "This is Sona"
 "They've sent Swain after her"
 
 Garen:"Swain?!"
+
 "What business would the nobles have with this girl here?"
 
 Cole: "Saul said she was being held captive by the members of N-rok"
@@ -422,13 +423,14 @@ Tifa: "I'm n-not sure."
 Cole: "Why not stay with N-Rok."
 Tifa: "N-Rok is cruel to their soldiers."
 
+////End Scene.
+
 *Tunnels and Maze*
 *Summon 7*
 
-//End Scene.
+*Dregg Boss Dregg/Bear*
 
 //Scene IV - The Ancients
-*Dregg Boss Dregg/Bear*
 
 *Before the Bear unleashes his final blow*
 
@@ -464,9 +466,10 @@ Sylla: *Laughs Heavily* "Noble?"
 *Summon 8*
 
 *Boss Fight Ice Gaurdian*
+*Gates to the Village of the Dregg open*
 
-//Scene V -
-*Sylla, Cole and Tifa pass the gaurdian*
+//Scene V - The Elders Tribunal
+
 *They walk up a staircase leading to the Elders Tribunal*
 
 - Man sitting in the center of the council -
@@ -529,11 +532,11 @@ Cole:"I don't know where the term is derived"
 
 Zues:"The Charlatans!"
 
-Mira: "Are these the same humans who are attempting to summon Ro?"
+Mira: "Are these the same humans who are attempting to summon Rho?"
 
 Leserach:"Ludacris!"
 
-Mira:"Ro will only come to those who are neither here nor there"
+Mira:"Rho will only come to those who are neither here nor there"
 "The ones who are in-between existence entirely"
 
 Cole: "What shall I do Elders?"
@@ -546,7 +549,7 @@ Zues: "Young human, proceed upon your journey with caution"
 
 Invoker: "Human, you must find the source of their will."
 "If it so happens they've found, and.. or have created a "Nobel."
-"Ro may be summoned, and may very well grant a wish."
+"Rho may be summoned, and may very well grant a wish."
 
 Zues: "A Dire Situation"
 
@@ -555,8 +558,11 @@ Magnus: "Human, what is it that you seek?"
 Cole: "I seek the strength to aid my friends wise elder!"
 
 Magnus: "Done."
-"Leave the mountain,"
-"Now go help your allies in their fight"
+
+*Coles swords glow*
+
+"Now leave the mountain,"
+"Go help your allies in their fight"
 
 Zues:"Court Ajourned, see the humans out oracle if you would please."
 
