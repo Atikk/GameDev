@@ -1,0 +1,263 @@
+Act II
+
+\\Scene I - Chairman Cane's Council
+
+Swain: "Minister Cain"
+"Intel reports that they have spotted the girl with Garen"
+"And his insolent band of rebels"
+"Garen has always found himself able to be a nuisence."
+"My skin crawls at his existence."
+
+Cain: "Calm your self swain"
+"There is no need to fret"
+"Although the girl is important"
+"Our plans are moving along smoothly"
+
+Swain: "Yes, your highness."
+"I will not worry myself."
+
+Cain:"Bring me Vayne"
+
+Exit Swain:
+Enter Vayne:
+
+Vayne: "What is thy bidding my master?"
+\\End Scene.
+
+\\Scene II - To Coles Suprise
+
+*Cole Set's Sail*
+
+Battleships Game
+Level your Boat, Loot Ships, Find Gold, Barter with Taverns.
+*Summon's 5/6*
+
+*Cole Returns to Kor*
+
+*From a distance Cole sees Kor's harbor in Flames*
+
+Cole: "What?!"
+"How could they!"
+
+*Cole fights 2 high ranking N-rok goons*
+*He run's to the inn and see's Saul injured*
+
+Saul: "Cole.." feignthly
+
+Cole: "Saul! What happened to Kor?!"
+
+Saul: "N-Rok.."
+
+Cole: "Stay awake Saul."
+"I'll get you out of here."
+
+**Cole carries Saul to the outter edge of Kor**
+
+With his last breath, 
+
+Saul: "They were looking.."
+"for Sona."
+
+Cole: "..."
+
+*Cole burries Saul*
+//End Scene.
+
+//Scene III - From ashes they rise.
+
+*He searches through the town looking for clues*
+*He finds an N-rok Theif searching for treasure*
+
+Theif: "Who are you??"
+
+Cole: "Are you one of N-rok's henchmen!?"
+
+Theif: "uh... no?"
+"I know you.."
+
+Cole: "What happened here??!"
+
+Theif: "Wow, I know this looks bad."
+"but I had nothing to do with it."
+"N-rok, razed this village looking for a Muse"
+
+Cole:"..."
+
+Theif: "Here, you're names Cole yeah?"
+"My name is Tifa"
+
+*Tifa hands Cole a scortched letter burned at the edges*
+
+*The letter's addressed to Cole, from Saul*
+
+Saul: "Cole, I fear N-rok knows Sona's escaped through the tunnels"
+"They are threatening to burn our homes."
+"If you find this letter, I ask you to warn Sylla of the Mountains."
+"Bring my sword and he will know that I have sent you."
+"Tell them what you know, the nobels have gone to lengths that are unforgivable."
+"- Take Care, Saul"
+
+*Tifa hands you Sauls sword*
+
+Tifa:"I remember you from the war"
+"My parents died then, and I was captured by N-rok"
+"I used to live in Kor.."
+"I remember you fighting N-rok Soldiers"
+"Its good to see that your still alive.."
+
+*Tifa and Cole head east toward the mountains*
+
+*Tifa and Cole Camp*
+
+Cole: "Why are you traveling with me?"
+Tifa: "I'm n-not sure."
+Cole: "Why not stay with N-Rok."
+Tifa: "N-Rok is cruel to their soldiers."
+
+////End Scene.
+
+*Tunnels and Maze*
+*Summon 7*
+
+*Dregg Boss Dregg/Bear*
+
+//Scene IV - The Ancients
+
+*Before the Bear unleashes his final blow*
+
+Bear: "Hold on.."
+"Is that.."
+"Is that the Sword of Saul I see?"
+"Where did you get that??"
+"Speak wise human."
+
+Cole: "I come from the village of Kor. Saul is dead."
+"He sent me to find Sylla of the mountains."
+
+Bear: "Well then."
+"I am Sylla of the Mountain."
+"I protect these lands from the likes of you."
+"You humans, and your reckless nature."
+"What is it that you seek?"
+
+Cole: "I seek your guidance wise druid."
+"I've come to warn you of The Noble Ranking."
+"They have burned my home in search of a muse."
+"They must be stopped."
+
+Sylla: *Laughs Heavily* "Noble?"
+"What would a human know of the Nobles?"
+"Human I will take you to your Elders" 
+"There you will find your answers."
+//End scene
+
+*Syla leads Cole and Tifa to the mountain peaks*
+
+*Maze, Puzzles,*
+*Summon 8*
+
+*Boss Fight Ice Gaurdian*
+*Gates to the Village of the Dregg open*
+
+//Scene V - The Elders Tribunal
+
+*They walk up a staircase leading to the Elders Tribunal*
+
+- Man sitting in the center of the council -
+*With a hammer he shouts for order among the room*
+
+Man: "Alright, everyone calm down already"
+"Enough of this non-sense"
+"I've explained it to you all, a thousand times."
+"As a tribunal we must respect the rules."
+
+Ethreal-Centaur: "Zues. They speak of carnage with-in the valley"
+"This matter isn't to be taken lightly"
+"The humans are taking their freedom to far."
+"we are too easy on them."
+
+Zues: "Leserach, come-on"
+"you havent been below the summit in ages"
+"what would you know of the humans"
+
+Mira: "On top of that he's caused massive panic in sector 8."
+"Zues, remind him of the storm he conjured,"
+"flooding the small town north of the valley."
+"I'm pretty sure, he's at the source of that decrypit minion"
+"rampage terrorizing all of the people down there."
+
+Zues: "Alright Alright, Here Here."
+"Enough Mira we have guests"
+
+*2 Other members of the Council Sit in Silence*
+*Mira and Leserach argue*
+
+Zues: "Welcome guests!"
+"How are you this fine evening."
+"Sylla it is always a pleasure seeing you."
+"and who are your friends here?"
+
+Sylla: "They are humans from south of the Valley"
+"I've brought them to speak to the Tribunal"
+"They speak of Chaos amongst their people"
+
+Cole: "But Elders! its not Chaos.. The state of my people!"
+"They're being manipulated"
+
+Zues:"Manipulation you say??"
+
+Cole:"They call themselves nobles"
+
+*Invoker of Kaelthas raises an eyebrow*
+
+Invoker: "Human. You speak of the Nobles?"
+
+Leserach: "Silly man, the nobles are long extinct"
+"They are but a myth."
+
+Invoker: "An idea if you would."
+"A being with-in its purest form of existence"
+
+Cole:"I don't know where the term is derived"
+"I only know that their men seek to destroy and courrupt"
+
+Zues:"The Charlatans!"
+
+Mira: "Are these the same humans who are attempting to summon Rho?"
+
+Leserach:"Ludacris!"
+
+Mira:"Rho will only come to those who are neither here nor there"
+"The ones who are in-between existence entirely"
+
+Cole: "What shall I do Elders?"
+"Their will is bringing ruin to my people"
+
+Zues: "Young human, proceed upon your journey with caution"
+"What you speak of is beyond our control"
+"We have influence over your people,"
+"But it is against our rules to intervine"
+
+Invoker: "Human, you must find the source of their will."
+"If it so happens they've found, and.. or have created a "Nobel."
+"Rho may be summoned, and may very well grant a wish."
+
+Zues: "A Dire Situation"
+
+Magnus: "Human, what is it that you seek?"
+
+Cole: "I seek the strength to aid my friends wise elder!"
+
+Magnus: "Done."
+
+*Coles swords glow*
+
+"Now leave the mountain,"
+"Go help your allies in their fight"
+
+Zues:"Court Ajourned, see the humans out oracle if you would please."
+
+A Dimensional rift teleports Cole and Tifa to the base of the mountain.
+
+End Scene V.
+End Act II.

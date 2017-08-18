@@ -1,0 +1,312 @@
+Story line.
+
+Prelude -
+
+Year 4020
+
+Cane was elected..
+
+In a panic we elected the first person willing to say he could fix everything.
+
+The chairman of n-RoK..
+
+After the war no one knew what to do, Our towns and cities became completely isolated.
+The world isn't like it used to be. Before the chaos, the people worked together in harmony. 
+N-rok had their hand in every-thing, they'd say they "wanted to protect us,
+"but while Cane and his goons were in charge, the sectors below N-Rok were impoverished.
+We were being lied to and no one could do anything about it.
+
+//Pan to the harbor of Kor//
+
+Enter: Sona
+
+Hench-man #1: //radio//"We have the girl in custody"
+
+COM: //radio//"copy.. move her to sector-3"
+
+Hench-man #2: "Come on Red lets get out of here." 
+"The Drogg are starting to multiply"
+
+//Enter Battle: Sea Drogg #1//
+
+Hench-men Fall
+
+//Scene I - The Inn-keeper Saul
+
+Pan-to-inn:
+
+Inn-Keeper: "you've been sleeping for a week"
+"we found you off the shore, not to far from the Harbor."
+"Poor child. We saw you being held by members of N-Rok"
+
+Man-1: "We need to report her, or they're going to fine us for incompliance."
+
+Inn-Keeper:"Quiet, can't you see shes been through enough."
+
+Man-1:"Don't you understand what our town is going through, we have enough trouble as it is"
+"we need to rid ourselves of these trivial matters and focus on the wellbeing of our village."
+
+Inn-Keeper:"Calm down, she just needs her rest is all"
+"Leave her be, She'll be on her way soon enough"
+
+*Knock* *Knock*
+
+Man-1: "It's the nobles!" "Quick hide the girl"
+
+Inn-Keeper:"Quick child this way, come with me."
+
+Enter: Swain
+
+Swain: *Laugh* "We've had reports of a very special young lady that has gone missing in your Village"
+"Would your Inn-keeper happen to know of her where abouts by chance?"
+
+Man-1: "No"
+
+Swain: "AH.. Well would you be so kind as to bring him to me?"
+
+Man-1: ** leaves to get Saul **
+
+Enter Saul: "..."
+
+Swain: "Hello there friend. The members of N-Rok and I are here on business"
+"We've lost someone very valuable to us, and we mean to retrieve her"
+
+Saul: "I do not know of whom you are looking for"
+"This village is not looking for trouble."
+
+Swain: "Good to hear. then you wouldn't oppose us searching through your Inn perhaps"
+
+Saul: "Go ahead, you'll find nothing here."
+
+Swain: "Very well, my men will be quick"
+"this is all just routine"
+
+Swain: "As expected, your inn-keeper is a modest man."
+"We we will take our leave. Thank you, for your co-operation"
+
+Exit: Swain
+
+Man-1: "I don't like the look of this"
+"they wouldn't have sent Swain if the situation wasn't big"
+"For God sakes, he's one of Cain's well known generals"
+"We need to get rid of her now, Saul"
+
+Saul: "Alright.. Fetch Cole, well have him escort the girl to Garen"
+"Hopefully. He'll know what to do."
+
+//End Scene.
+
+//Scene II - Underneath The-INN 
+
+Cole: "Saul, you know I have my rounds. The Drogg are getting worse. What do you need?"
+
+Saul: "N-Rok is searching for this young lady here, we need you to bring her to Garen."
+
+Cole: "To Garen?! I haven't spoken to him since the war."
+"Last I heard he was leading the resistance"
+
+Saul: "Exactly, he might just be this girls only chance at escaping N-Rok"
+"Cole, she needs your help"
+"They have even sent Swain to come find her."
+
+Cole: "But that means..."
+"Alright. I understand, I'll take her to Garen."
+"But you owe me a big meal when I get back."
+
+Saul: "Leave the village through the tunnels so N-Rok doesn't find you,"
+"It will lead you to Sector-5 just off the harbor."
+"There's a small boat there you can take north."
+
+Cole: "Hello, my lady, my name is Cole. What is your name?"
+
+Sona:"... Sona."
+
+Cole: "Well then looks like we have ourselves a journey ahead of us"
+"Let us be on our way then?"
+
+Saul: "Wait. Take this, he hands Cole a Quil and a Pendant."
+"She was carrying these when we found her."
+"Be safe."
+
+//Save point//
+Would you like to save?
+
+//End Scene II
+
+Tunnels: *Maze* *Puzzle* & *Monster Fights*
+*Boss at end* *Summon 1*
+
+Enter Battle: Rock Drogg *Boss*
+
+//Scene III - Harbors in the Shadows
+
+N-rok HM: "Sir."
+"We've dealt with the Drogg attacking Sector-5"
+
+Swain: "And the girl?"
+
+N-rok HM: "No sign of her"
+
+Swain: "..." *** Silent Anger Eminates from Swain ***
+
+N-rok HM: "We have all of our dossers searching for her"
+"but the trail ends here."
+"there is no sign of her"
+
+Swain: "..."
+
+N-rok HM: "the search is wearing on our men"
+"our soldiers need their rest"
+
+Cinematic: "Dark cloud consumes Soilder"
+
+N-rok HM *yells in terror*
+
+Swain: "As for the rest of you."
+"Pray you do not end up like him."
+"Rest for now and we leave in the morning."
+
+//
+Pan to - Cole and Sona hiding in the distance
+//
+*Sona is disturbed by Swains actions*
+//
+
+Cole: "The bastard"
+"Don't worry, Sona."
+"I'ma get you out of here."
+"Garen is not far north."
+"We'll sneak out before daylight."
+
+//End Scene III
+
+Multiplayer Pirate Game: Unlockable at 60
+*sneak point, Maze*
+*Obj: Dodge N-Roq Privateers, Fend off Pirate interceptors, and Drogg*
+Boat level 1
+Boat Tech Tree Weapons.
+Basic Cannon - Sniper Shot - Missles - Drones - Lasers
+*Summons 2/3*
+
+*Sona and Cole anchor just off the coast of sector 7*
+
+//Scene IV - The Resistance
+
+Garen and his men are defending against the Drogg
+
+Recruit#1:"Sir! the drogg are getting stronger"
+
+Garen: "Tell Krause need we need him to fix the barrier as soon as possible"
+
+Recruit#1: "Yes Sir"
+
+Recruit#2: "The men are reporting a level 5 Drogg manifesting the waves Sir."
+
+Garen: "everyone to their posts"
+"We'll fight them off long enough for Krause to fix the barrier"
+
+Recruit#3:"Code red!"
+"I repeat code red, We have a level 5 Drogg Incomming"
+
+**Cole and Sona aid the fight**
+
+Enter Battle: Flame Drogg
+
+*Krause dropps an egg-flash regenerating the Barrier*
+
+Garen: "Good man Krause"
+
+Krause: "Of-course General Garen"
+"I just needed the time to muster together these matter bombs here"
+"Jump starting the barrier with a flash of energy happened to work perfectly"
+
+Recruit: "Sir. The engines are reporting to be functioning at a nomnial rate"
+
+Krause: "Calculated to the dime" *wink*
+
+Garen: "COLE! You old dog you"
+"What a fine young lady you have with you"
+"and your name, mlady?"
+
+Cole: "This is Sona"
+"Saul sent me to escort her to you, Garen"
+"Something is happenening to N-Rok"
+"They've sent Swain after her"
+
+Garen:"Swain?!"
+
+"What business would the nobles have with this girl here?"
+
+Cole: "Saul said she was being held captive by the members of N-rok"
+"they were taking her to sector-3"
+
+Garen:"Sector 3?!"
+"Good lord, Why would they be transporting"
+"a prisoner to Cain's M-plant?"
+
+Krause: "The M-Plant of sector-3 huh.."
+"Our dossers have data reporting"
+"Sector-3's Energy levels have been" 
+"off the charts for the last week or so"
+"We're not sure what they're building there"
+"and why its generating so much energy"
+
+Garen:"Enough said, We cannot let the nobles"
+"get their hands on the beautiful lady here"
+"we need to infiltrate Sector-3 and figure out"
+"why our dossers are reporting a surge of energy there"
+"give us a day to devise a plan we'll discuss this tomorrow"
+
+\\End Scene.
+
+*Maze* *Puzzle*
+*Summon 4*
+
+\\Scene V - Midnight at the refuge
+
+Garen: "Cole, What have you,"
+"Are you willing to join the resistance?"
+"Our mission is to liberate the people from N-roK"
+"Its obvious the drogg are becoming more aggressive"
+"All because of n-roks malicious activity"
+"We need as many men as we can find to aid us in the fight"
+
+Cole: "As much as I hate that bastard Cane"
+"Garen, The war was a long time ago"
+"I've been taking it easy in Kor this entire time"
+"I can't ask for more"
+"The people asked Cane to lead them"
+"It's not our place to decide"
+
+Garen: "But Cole! You know there's more to it than that."
+"I will not let you mitigate n-rok's exploits"
+"They must be brought to justice for their crimes against our people"
+
+Cole: "Take a look around Garen, your men are having enough"
+"trouble fighting off the drogg as it is."
+
+Garen: "My men are fine soldiers Cole! do not take them lightly."
+
+Cole: "Say what you will Garen, a fight against N-rok is futile."
+"I only came to save the girl."
+
+Exit: Cole
+
+Krause: "He has a point Garen..."
+
+Cole: "Sona.. I'm going back to Kor."
+"Here you'll be safe with Garen."
+"I'm glad we had the chance to travel together."
+
+*Sona gives Cole a kiss on the cheek*
+*Embarrassed Cole is confused and vanishes*
+
+End Scene.
+End Act.
+
+//Choice//
+
+Leave with Cole or Stay with Sona?
+
+
+
