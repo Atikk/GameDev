@@ -23,6 +23,9 @@ Elemental-"Light - Dark - Fire - Water - Earth - Ice - Lightning - Time"
  Lightning-"Lightning I, Lightning II, Lightning III, Thunderga"
  Time-"Haste I, Haste II, Haste III, Hastga, Slow I, Slow II, Slow III, Slowga"
  
+//Charcters can only have 4-7 at a time although they are interchangable//
+//Also they have a 6 item quickslot inventory which is also interchangeable through their backpack//
+
 Skills: 
 Sword-
 "Slash, Buster, Counter-edge, Poison-edge, Devestate, Feint, Desolate, Piercing-Blow, OmniSlash, Whirlwind"
@@ -47,8 +50,9 @@ Tincture-List: "Item list"
 
 Rogue-
 "Steal, Mug, Combo, Shadow-Step, B-Punch, Blink-Strike, Stealth, Evasion, Quick-Strike, Poison-Shiv, BackStab, Track, Sunder-Strike" 
-"Consecutive-Hits, Critcal-Blow"
+"Consecutive-Hits, Critcal-Blow, Illusion-Assault, Immitate-Skill"
 "Merc Summon"
+
 
 Items: "Potion, Mega-Potion, X-Potion, Remedy, Tent, Sleeping-Bag, Antidote,"
 
