@@ -1,11 +1,11 @@
 ABCDEFGHI JKLMNOPQR STUV WXYZabcdefghi jklmnopqr stuv wxyz12345678-9
 I.a-r
 Classes.
-    M.Sword Str/Agi            M.Music - Agi/int   
-Djinn - Knight - Samurai     Muse - Bard - Steam-Punk  
+    M.Sword Str/Agi              M.Music - Agi/int   
+Djinn - Knight - Samurai      Muse - Bard - Steam-Punk  
 
-  M.Artist Int/Str                M.Engineer - Int/Agi   
-Druid - Healer - Creator     Blacksmith - Alchemist - Dosser 
+    M.Artist Int/Str                M.Engineer - Int/Agi   
+Druid - Holy - Creator        Techsmith - Alchemist - Dosser 
 
   M.Rogue Agi/Str                   M.Dregg - Str/Int
 Theif - Hunter - Fighter        White Mage - Dark Mage - Nullifiers
@@ -25,24 +25,45 @@ Elemental-"Light - Dark - Fire - Water - Earth - Ice - Lightning - Time"
  
 Skills: 
 Sword-
-"Slash, Buster, Poison, Devestate, Feint, Desolate,"
-Music-
-"Resonate, Silence,
+"Slash, Buster, Counter-edge, Poison-edge, Devestate, Feint, Desolate, Piercing-Blow, OmniSlash, Whirlwind"
 
-Items: "Potion, Mega-Potion, X-Potion, Remedy, Tent, Sleeping-Bag, Antidote, Grenade,"
+Dregg-
+"Magic Manipulator, Wex, Qaas, Extort, Gho, Nero"
+"Spell Book"
+
+Music-
+"Resonate, Sound-Blast, Sonic-Blow, Silence, Mute, Sonata, Symphony, Orchestra, F-Sharp, G-Sharp" 
+"Call of the Ancients Summon"
+
+Artist-
+"Growth, Create, Heal, Cure, Purify, Illuminate, Justice, Holy-Light, Protect"
+"Conjure Summon"
+
+Engineer-
+"Create-Grenade, Create-Bomb, Create-Tincture, Gun-fire, flame-Thrower, Cannon-Blast, Decrypt, Encrypt, Locate, Laser, Rocket"
+Grenade-list: "Grenade, Fusion Bomb, Matter Bomb, Flash Bomb, Sound Bomb, Dark Bomb,"
+Tincture-List: "Item list"
+"Mech Summon"
+
+Rogue-
+"Steal, Mug, Combo, Shadow-Step, B-Punch, Blink-Strike, Stealth, Evasion, Quick-Strike, Poison-Shiv, BackStab, Track, Sunder-Strike" 
+"Consecutive-Hits, Critcal-Blow"
+"Merc Summon"
+
+Items: "Potion, Mega-Potion, X-Potion, Remedy, Tent, Sleeping-Bag, Antidote,"
 
 Characters:
 Main-
-Sona   Cole    Garen    
-Muse - Djinn - Knight
+Sona - Cole  - Garen -  Krause  -  Tifa
+Muse - Djinn - Knight- Techsmith - Theif
 
 Villains-
-  Cane       Swain     Vayne
-Nullifier - Darkmage - Hunter -
+  Cane   -    Swain  -  Vayne
+Nullifier -  Darkmage - Hunter -
 
 Story NPC-
-Saul
-Inn Keeper -
+Saul     -       Sylla   -     Zues - Mira - Leseract - Magnus - Invoker
+Inn Keeper - Ancient Druid      -        Elders Tribunal    
 
 Influences -
   Fight Club - Tri gun - Cowboy Bebop -The Illiad - Samson
