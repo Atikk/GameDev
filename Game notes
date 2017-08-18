@@ -4,10 +4,10 @@ Classes.
     M.Sword Str/Agi              M.Music - Agi/int   
 Djinn - Knight - Samurai      Muse - Bard - Steam-Punk  
 
-    M.Artist Int/Str                M.Engineer - Int/Agi   
+    M.Artist Str/Int                M.Engineer - Int/Agi   
 Druid - Holy - Creator        Techsmith - Alchemist - Dosser 
 
-  M.Rogue Agi/Str                   M.Dregg - Str/Int
+  M.Rogue Agi/Str                   M.Dregg - Int/Str
 Theif - Hunter - Fighter        White Mage - Dark Mage - Nullifiers
 
 Attributes: Strength - Agility - Intelligence
