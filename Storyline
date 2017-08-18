@@ -195,7 +195,7 @@ Garen and his men are defending against the Drogg
 
 Recruit#1:"Sir! the drogg are getting stronger"
 
-Garen: "Tell Kause need we need him to fix the barrier as soon as possible"
+Garen: "Tell Krause need we need him to fix the barrier as soon as possible"
 
 Recruit#1: "Yes Sir"
 
@@ -266,11 +266,11 @@ Garen: "Cole, What have you,"
 "All because of n-roks malicious activity"
 "We need as many men as we can find to aid us in the fight"
 
-Cole: "As much as I hate that rat bastard Cane"
+Cole: "As much as I hate that bastard Cane"
 "Garen, The war was a long time ago"
 "I've been taking it easy in Kor this entire time"
 "I can't ask for more"
-"The people asked Cain to lead them"
+"The people asked Cane to lead them"
 "It's not our place to decide"
 
 Garen: "But Cole! You know there's more to it than that."
@@ -309,7 +309,7 @@ Act II
 Swain: "Minister Cain"
 "Intel reports that they have spotted the girl with Garen"
 "And his insolent band of rebels"
-"Garen has always found himself able as a nuisence."
+"Garen has always found himself able to be a nuisence."
 "My skin crawls at his existence."
 
 Cain: "Calm your self swain"
@@ -326,7 +326,6 @@ Exit Swain:
 Enter Vayne:
 
 Vayne: "What is thy bidding my master?"
-
 \\End Scene.
 
 \\Scene II - To Coles Suprise
@@ -394,7 +393,7 @@ Theif: "Here, you're names Cole yeah?"
 
 *The letter's addressed to Cole, from Saul*
 
-Saul: "Cole, I fear N-rok knows Sona, escaped through the tunnels"
+Saul: "Cole, I fear N-rok knows Sona's escaped through the tunnels"
 "They are threatening to burn our homes."
 "If you find this letter, I ask you to warn Sylla of the Mountains."
 "Bring my sword and he will know that I have sent you."
@@ -405,7 +404,49 @@ Saul: "Cole, I fear N-rok knows Sona, escaped through the tunnels"
 
 Tifa:"I remember you from the war"
 "My parents died then, and I was captured by N-rok"
-"I used to live in Kor"
+"I used to live in Kor.."
 "I remember you fighting N-rok Soldiers"
-"Its good to see you're still alive.."
+"Its good to see that you're still alive.."
 
+*Tifa and Cole head east toward the mountains*
+
+*Tifa and Cole Camp*
+
+Cole: "Why are you traveling with me?"
+Tifa: "I'm n-not sure."
+Cole: "Why not stay with N-Rok."
+Tifa: "N-Rok is cruel to their soldiers."
+
+*Tunnels and Maze*
+//End Scene.
+
+//Scene IV - The Ancients
+*Dregg Boss Dregg/Bear*
+
+*Before the Bear unleashes his final blow*
+
+Bear: "Hold on.."
+"Is that.."
+"Is that the Sword of Saul I see?"
+"Where did you get that??"
+"Speak wise human."
+
+Cole: "I come from the village of Kor. Saul is dead."
+"He sent me to find Sylla of the mountains."
+
+Bear: "Well then."
+"I am Sylla of the Mountain."
+"I protect these lands from the likes of you."
+"You humans, and your reckless nature."
+"What is it that you seek?"
+
+Cole: "I seek your guidance wise druid."
+"I've come to warn you of The Noble Ranking."
+"They have burned my home in search of a muse."
+"They must be stopped."
+
+Sylla: *Laughs Heavily* "Noble?"
+"What would a human know of the Nobles?"
+"Human I will take you to Elders" 
+"There you will find your answers."
+//End scene
