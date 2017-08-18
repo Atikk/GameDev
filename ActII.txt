@@ -166,7 +166,7 @@ Sylla: *Laughs Heavily* "Noble?"
 - Man sitting in the center of the council -
 *With a hammer he shouts for order among the room*
 
-Man: "Alright, everyone calm down already"
+Man-with-Hammer: "Alright, everyone calm down already"
 "Enough of this non-sense"
 "I've explained it to you all, a thousand times."
 "As a tribunal we must respect the rules."
@@ -176,7 +176,7 @@ Ethreal-Centaur: "Zues. They speak of carnage with-in the valley"
 "The humans are taking their freedom to far."
 "we are too easy on them."
 
-Zues: "Leserach, come-on"
+Zues: "Leseract, come-on"
 "you havent been below the summit in ages"
 "what would you know of the humans"
 
@@ -190,7 +190,7 @@ Zues: "Alright Alright, Here Here."
 "Enough Mira we have guests"
 
 *2 Other members of the Council Sit in Silence*
-*Mira and Leserach argue*
+*Mira and Leseract argue*
 
 Zues: "Welcome guests!"
 "How are you this fine evening."
@@ -212,7 +212,7 @@ Cole:"They call themselves nobles"
 
 Invoker: "Human. You speak of the Nobles?"
 
-Leserach: "Silly man, the nobles are long extinct"
+Leseract: "Silly man, the nobles are long extinct"
 "They are but a myth."
 
 Invoker: "An idea if you would."
@@ -225,9 +225,9 @@ Zues:"The Charlatans!"
 
 Mira: "Are these the same humans who are attempting to summon Rho?"
 
-Leserach:"Ludacris!"
+Leseract:"Ludacris!"
 
-Mira:"Rho will only come to those who are neither here nor there"
+Invoker:"Rho will only come to those who are neither here nor there"
 "The ones who are in-between existence entirely"
 
 Cole: "What shall I do Elders?"
