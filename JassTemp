@@ -1,0 +1,24 @@
+scope Test initializer Init
+ 
+private function Conditions takes nothing returns boolean
+    if ( not ( GetUnitTypeId(GetTriggerUnit()) == 'uabo' ) ) then
+        return false
+    endif
+    return true
+endfunction
+ 
+private function GetEnemies takes nothing returns boolean
+    return ( IsUnitEnemy(GetFilterUnit(), GetOwningPlayer(GetTriggerUnit())) == true )
+endfunction
+ 
+private function DoDamage takes nothing returns nothing
+    call UnitDamageTargetBJ( GetTriggerUnit(), GetEnumUnit(), 250.00, ATTACK_TYPE_CHAOS, DAMAGE_TYPE_ACID )
+endfunctionprivate function Init takes nothing returns nothing
+    local trigger t = CreateTrigger(  )
+    call TriggerRegisterAnyUnitEventBJ( t, EVENT_PLAYER_UNIT_DEATH )
+    call TriggerAddCondition( t, Condition( function Conditions ) )
+    call TriggerAddAction( t, function Actions )
+    set t = null // we free the variable but not the handle itself... in this case it doesn't matter :)
+endfunction
+
+//Simple Code in Jass for unit Init.
