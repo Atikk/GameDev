@@ -15,5 +15,5 @@ Destructibles. - Trees, Items, Chests
 TechTree Stat system
 STR/AGI/INT
 Class - Swordsman, Rogue, Artist, Musician, Dregg, Engineer
-sub class - Djinn, Knight, Samurai, Theif, Assassin, Fighter, Muse, Bard, SteamPunk, Mage, Warlock, Nullifier, Techsmith, Alchemist, Dosser.
+sub class - Djinn, Knight, Samurai, Driuid, Holy, Nullifier, Theif, Hunter, Fighter, Muse, Bard, Steam-Punk, Light Mage, Dark Mage, Creator, Techsmith, Alchemist, Dosser.
 
