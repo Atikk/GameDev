@@ -4,7 +4,7 @@ Game Notes
 This is us trying to develop a game.
 Project Completeion: 
 
-<progress value="22" max="100"></progress>
+[||                                      ] 5%
 
 TO work on this we're going to start with character development and story.
 Charcters are going to be unit dev.
