@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504556259 source:c:\gamedev\main.cpp
+	<iostream>
+
+1504564778 source:c:\gamedev\basictutorial.cpp
+	<iostream>
+
