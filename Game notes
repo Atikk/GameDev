@@ -1,4 +1,4 @@
-ABCDEFGHI JKLMNOPQR STUV WXYZabcdefghi jklmnopqr stuv wxyz12345678-9
+, ABCDEFGHI JKLMNOPQR STUV WXYZabcdefghi jklmnopqr stuv wxyz12345678-9
 I.a-r
 Classes.
     M.Sword Str/Agi              M.Music - Agi/int   
@@ -11,7 +11,6 @@ Druid - Holy - Nullifier        Techsmith - Alchemist - Dosser 
 Theif - Hunter - Fighter        Light Mage - Creator - Dark Mage
 
 Attributes: Strength - Agility - Intelligence
-
 Magic: 
 Elemental-"Light - Dark - Fire - Water - Earth - Ice - Lightning - Time"
  Light-"Cure, Heal, Purify, Illuminate, Meditate, Ultima"
@@ -22,7 +21,7 @@ Elemental-"Light - Dark - Fire - Water - Earth - Ice - Lightning - Time"
  Ice-"Ice I, Ice II, Ice III, Freezega"
  Lightning-"Lightning I, Lightning II, Lightning III, Thunderga"
  Time-"Haste I, Haste II, Haste III, Hastga, Slow I, Slow II, Slow III, Slowga"
- 
+, 
 //Charcters can only have 4-7 at a time although they are interchangable//
 //Also they have a 6 item quickslot inventory which is also interchangeable through their backpack//
 
@@ -72,4 +71,4 @@ Inn Keeper - Ancient Druid      -        Elders Tribunal
 Influences -
   Fight Club - Tri gun - Cowboy Bebop -The Illiad - Samson
   Wrath of Fire - Ogre Battle 64 - Warcraft 3 - Chrono Trigger
-  Final Fantasy 4,7,10 - The Tempest
+  Final Fantasy 4,7,10 - The Tempest, Tales of Phantasia
