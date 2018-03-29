@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG", "WindowsFormsApp2\RPG.csproj", "{12F34CF3-4C5A-4258-A578-DBC590BDEA45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B8DB03C-C20F-47D7-9205-BDCE64C9A8F0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Csharp\MXA-Framework\src\Framework.Game\Game.cs = ..\..\..\Desktop\Csharp\MXA-Framework\src\Framework.Game\Game.cs
+		..\..\..\Desktop\Csharp\MXA-Framework\src\Framework.Graphics\IGraphicsDeviceService.cs = ..\..\..\Desktop\Csharp\MXA-Framework\src\Framework.Graphics\IGraphicsDeviceService.cs
+		..\..\..\Desktop\Csharp\MXA-Framework\README.md = ..\..\..\Desktop\Csharp\MXA-Framework\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insma.Mxa.Framework", "..\..\..\Desktop\Csharp\MXA-Framework\src\Framework\Insma.Mxa.Framework.csproj", "{ED6C838F-B040-4F7B-812A-9448D07340E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insma.Mxa.Framework.Graphics", "..\..\..\Desktop\Csharp\MXA-Framework\src\Framework.Graphics\Insma.Mxa.Framework.Graphics.csproj", "{9BDFAC16-CDB6-40DF-BF55-ADD0F305A0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Game v5.0-cs", "..\..\..\Desktop\Csharp\MXA-Game-Studio\src\ProjectTemplates\Windows Game v5.0-cs\Windows Game v5.0-cs.csproj", "{B28C395C-7BC1-4E9E-B2B5-EEB78558F8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insma.Mxa.Framework.Content.Pipeline", "..\..\..\Desktop\Csharp\MXA-Framework\src\Content\Pipeline\Insma.Mxa.Framework.Content.Pipeline.csproj", "{899C7129-B6DC-4CDF-AFE8-4D392CCF6DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insma.Mxa.Framework.Game", "..\..\..\Desktop\Csharp\MXA-Framework\src\Framework.Game\Insma.Mxa.Framework.Game.csproj", "{0847443D-55EB-440D-B6FF-D5D005312D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F34CF3-4C5A-4258-A578-DBC590BDEA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F34CF3-4C5A-4258-A578-DBC590BDEA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F34CF3-4C5A-4258-A578-DBC590BDEA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F34CF3-4C5A-4258-A578-DBC590BDEA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6C838F-B040-4F7B-812A-9448D07340E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6C838F-B040-4F7B-812A-9448D07340E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6C838F-B040-4F7B-812A-9448D07340E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6C838F-B040-4F7B-812A-9448D07340E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDFAC16-CDB6-40DF-BF55-ADD0F305A0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDFAC16-CDB6-40DF-BF55-ADD0F305A0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDFAC16-CDB6-40DF-BF55-ADD0F305A0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDFAC16-CDB6-40DF-BF55-ADD0F305A0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28C395C-7BC1-4E9E-B2B5-EEB78558F8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28C395C-7BC1-4E9E-B2B5-EEB78558F8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28C395C-7BC1-4E9E-B2B5-EEB78558F8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28C395C-7BC1-4E9E-B2B5-EEB78558F8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899C7129-B6DC-4CDF-AFE8-4D392CCF6DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899C7129-B6DC-4CDF-AFE8-4D392CCF6DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899C7129-B6DC-4CDF-AFE8-4D392CCF6DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899C7129-B6DC-4CDF-AFE8-4D392CCF6DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0847443D-55EB-440D-B6FF-D5D005312D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0847443D-55EB-440D-B6FF-D5D005312D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0847443D-55EB-440D-B6FF-D5D005312D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0847443D-55EB-440D-B6FF-D5D005312D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B890654C-04D8-4D4A-A294-A68CEA917370}
+	EndGlobalSection
+EndGlobal
