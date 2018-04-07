@@ -1,4 +1,4 @@
-lStoryLine.
+StoryLine.
 
 Prelude-
 Year4020
@@ -8,7 +8,7 @@ In a panic we elected the first person willing to say he could fix everything.
 The Chairman of n-Rok..
 After the war no one knew what to do, our towns and cities became completely isolated.
 The world isn't like it used to be. Before the chaos, the people worked together in harmony.
-N-Rok had their hand in everything. They'd say they "wanted to protect us," but while
+N-Rok hack their hand in everything. They'd say they "wanted to protect us," but while
 Cane and his goons were in charge, the sectors below N-Rok were impoverished.
 We were being lied to and no one could do anything about it.
 
@@ -20,7 +20,7 @@ Hench-man #1: //Radio//"We have the girl in Custody"
 
 Com:// Radio//"Copy.. Move her to Sector-3"
 
-Hench-man #2: //Raido//"Come on Red lets get out of here."
+Hench-man #2: //Raido//"Come on Red Let get out of here."
 "The Drogg are starting to multiply."
 
 //Battle//SeaDrog//
@@ -640,12 +640,13 @@ Jax: "Garen.."
 
 *Garens caravan reaches the city hidden in the sand*
 
-//End Scene IV
+//End Scene III
 
 *City mini games* 
 *Theif takes sona's pendant*
+*Runs to Jax's Tower*
 
-Scene V. Jax's Tower
+Scene IV. Jax's Throne Room
 
 Enter: Jax
 *Jax stops theif*
@@ -691,7 +692,7 @@ Jax: "If you Enter the games"
 "that will be your answer" 
 "I hope to see you soon."
 
-\\End Scene V
+\\End Scene IV
 
 *Garen and sona meet a bard at the tavern*
 *the bard informs them of the Collesum Games*
@@ -820,7 +821,7 @@ I promise we will go exploring once we complete the project.
 
 Valdez: Cane, someone mentioned that we are trying to summon Roh, is it true brother?
 
-Cane: Hmmm... Who mentioned Roh.
+Cane: mhmm... who mentioned Roh.
 
 Valdez: I overheard the gaurds speaking of the Nobel.
 
@@ -875,12 +876,12 @@ Scene III.
 
 Sector-4-Civilian-Compound
 
-The Dragon breaths heavy, and flies to a landing area after swooping across the civilian crowd.
+The Dragon breathes heavy, and flies to a landing area after swooping across the civilian crowd.
 
 Vayne jumps off the dragon.
 
 Swain: "Vayne, what a lovely suprise."
-"The lady's beauty has no equal, even your own charm could not match."
+"The lady's beauty has no equal, even your own charm could not match, vayne"
 
 Vayne: "ah.. shut up' swain"
 "Lieutenant. Garen and his rebelion are not much further behind"
@@ -889,7 +890,7 @@ Vayne: "ah.. shut up' swain"
 "Bring the girl to Cane, and be gentle."
 "Till we meet again my love."
 
-// in the distance.
+Interlude:
 
 Garen, the Gryphons and the rebels are camping outside of Sector-2
 
@@ -904,44 +905,59 @@ Garen: "Cane is up to something, and they're going to use Sona."
 Krause: "So the sewage system it is then.."
 
 Scene IV.
+
 *After Inflitrating the Compound, inside of N-Roks Castle*
+
+Swain: Welcome Guests,
+Friends, it is a time to rejoice, our company has managed to make great progress with N-roks current Project.
+We're so close to completeion it is but a matter of time before our plans are finished.
+Let us enjoy the evening, and tomorrow we'll make history.
+
+*The Ball has started and they see Sona playing music for the crowd with guards protecting her*
+
 *Tifa and Cole find the library and speak to Valdez*
+
+Scene IV.
 
 --Valdez tells them a story, of the fall of Jing.--
 
 Valdez: Are you here for the Grand Ball?
 N-Rok hosts it every year, celebrating Daeladus.
-Would you like to hear the story about a bandit named Jing?
+Would you like to hear the story of the Grand Noble Jing?
 
-if yes: 
+If yes: 
 Cinematic.
-Well once there was a farmer who had no money,
-He would work day after day trying to grow vegtables but the seasons were to harsh on him.
-Then one day in order to eat the man decides to leave his home and steal money for food.
-He buries his victim and goes home with out feeling bad for what he's done.
-The next day after eating a big meal, the man does the same thing all over again.
-He buries his victim, then goes home feeling happy for the days work.
-The next day, the man is visited by the town sherif asking if he had seen the towns folk.
-He tells him no.
-The man then goes out the same night and steals again.
-After he gets home, the man looks at his vast wealth and land and he is content with the things he's gained.
-Later that night he has a nightmare about the people he's done wrong to.
-He wakes up looks himself in the mirror ashamed for what hes done.. and runs to the ocean.
+
+Well once there was a noble who couldnt master magic
+He would work day after day trying to practice but would never have any luck
+Then one day in a fit of rage the noble decides to leave his home and steal magic from the gods
+The magic was strong and the nobel goes home with out feeling bad for what he's done.
+The next day after showing his friends his magic, the Nobel does the same thing all over again.
+He takes more magic from the gods and then goes home feeling happy for the days work.
+After some time, the Noble is visited by the Arch-Nobles asking if he had known where the magic had gone to.
+The Noble tells them no.
+The Noble then goes out the same night and steals again.
+After he gets home, the Noble sees his strength and power he's gained and he is content with all of it
+Later that night he has a nightmare about how he has done wrong to the Gods.
+He wakes up looks himself in a reflection ashamed for what hes done.. and runs to the ocean.
 Splat!
 Heh. Did I scare you?
 Mothers tell this story to their kids.. before they kill them!
-I think Jing wakes up the next day thinking it was only a dream, and does the same things all over again.
-Never realizing he had actually died over the cliff.
-Or maybe the sherif killed him ???...
+I think Jing wakes up the next day thinking it was only a dream, and continues to steal magic.
+Never realizing that he had actually died over the cliff.
+Or maybe the Arch-Nobles killed him ???...
 
 As Tifa and Cole try to leave, Swain appears.
 
 Swain:"Whats this?"
 "Intruders?!"
-"Gaurds!"
+"Guards!"
 
-*Gaurds surround Tifa and Cole*
-*In a panic Cole grabs Tifas hand and they run to the window*
+*Guards surround Tifa and Cole*
+*In a panic Cole grabs Tifa's hand and they jump out of the window*
+*Into a ball room*
+
+Pan to Encampment
 
 Rebel#1: "Garen look, its Cole!"
 "He's surrounded by soliders"
@@ -951,7 +967,157 @@ Garen: "Cole?! what the.."
 "Always, where you need him."
 "The mans got a nack for it."
 "A distraction will be good."
-"Krause, try to set up the explosives"
+"Krause, do your best and set up the explosives"
 "as soon as you can, I will go help Cole."
 
+*Pan to ball room*
 
+**Suprise**
+
+Cane: It seems as though our night has been interupted.
+Excuse us, Apperantly we are forced to proceed with our project sooner than expected.
+Guards if you could please, fetch Valdez and escort the girl to the M-plant Facility.
+As for you Swain, entertain our guests here.
+
+Exit Cane.
+
+Swain: Yes Chairman Cane, I would be glad to.
+
+\\Battle Scene\\ Guards\
+
+Enter Garen
+
+\\Battle Scene\\ Swain\
+
+**Swain maniacle laughter**
+
+\\Battle Scene\\ Swain Transformation 2\
+
+*Tifa Cole and Garen descend into the robotics facility*
+
+*Barrier blocks entrance to facility*
+
+Scene V
+
+3..
+2..
+1..
+
+Explosion appears and krause is standing behind the wall where there is a sewer system.
+
+Krause explains to the group of the Generator system.
+
+End Scene V
+
+*Walk through the sewers to generators and plant explosives*
+
+Explosives set generators are disabled
+
+light flashes.
+
+Robotics facility.
+
+Act V
+
+Once you enter the M-plant.
+
+Aeonic Monsters fly and surround you.
+Defeat the summons and you gain Bahumut.
+
+Walk through robotics facility, and find the control room.
+
+Scene I
+
+Sona is in the middle of the room.  Trapped behind an electrical cage.
+
+Cole: Cain! let her go!!
+
+Garen: To hell with N-rok release her!
+
+Cain:...
+
+Cole tries to get past the fence and is forced back.
+
+Sona is unable to move
+
+Cain: As you wish..
+Valdez if you could please release the muse.
+
+Valdez walks to the cage and turns off its power.
+
+Sona is free.
+
+Cain: If you understand the story of the nobels. 
+Than I am also inclined to explain to you, that jing's story, is perpetual.
+We find things we like, and we do the things we have to in order to get them.
+As you are here for the Girl.
+N-rok and I have worked to reach this point on our own accord.
+
+Valdez picks up Sona, and begins to walk her to the group.
+
+Lights flash.
+
+Cain: ...
+
+Cain binds everyone in the room in a electrical field.
+
+Valdez: Brother!!
+
+Cain: Im sorry Valdez, we've been planning this for a long time.
+
+Lights flash.
+
+Cain: Start the back up generators, the summon is almost complete.
+
+The super computers start and manifest a black hole in the middle of the room.
+
+Lights flash.
+
+Cain: Now for the life of the nobel I exchange this muse and my brother...
+
+Lights flash.
+
+The muse and valdez cry in agony.
+*Aghhh*
+
+The group is forced to watch.
+
+They dissapate into a field of energy and are consumed by the black hole.
+
+Lights flash.
+
+The hole gets bigger and everything turns black.
+
+Slow music starts, and nothing is in the room but a man.
+
+Man:Its been along time, since ive seen Humans.
+I've been here for a long time.
+
+Behind the man appears the arch nobles.
+
+Man: They casted me into an eternal slumber.
+and they left me in chains forever trapped by my own imagination.
+
+Behind the man is himself battling against the Arch nobels.
+
+*Crack* *Crack*
+
+The chains around his arms crumble and break.
+
+Man: and to the who has set me free, I grant you one wish.
+
+Cain: "It is said that you are the only Nobel who can ressurect Roh.
+That is what I ask of you."
+
+Man: Hahaha. You mean you freed me, to bring back the man who imprisoned me here?!
+Hahaha.
+
+Man: Alright, I guess a rematch would not be too inconcieveable.
+
+Man: Haha, Mass destruction should do the trick..
+
+*Cain and Jing vanish*
+
+Garen: Cain, you idiot..
+
+The group returns to the facility.
